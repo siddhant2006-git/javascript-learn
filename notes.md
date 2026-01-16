@@ -1,4 +1,4 @@
-// lists alll the content inside the folder - ls
+// lists all the content inside the folder - ls
 // cd <directory name> - change the directory (folder name)
 // clear or cls - clear the terminal
 // cd .. - back to directory
